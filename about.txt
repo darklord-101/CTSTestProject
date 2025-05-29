@@ -1,1 +1,2 @@
 This is a Git practice activity.
+This change was made from GitHub.
